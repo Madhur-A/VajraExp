@@ -18,9 +18,9 @@ It is the refined version of the first UI draft of the Vajra which was written i
 
 ### Usage
 
-To initialise the GUI application simply run '~$ python3 VajraExp.py'
-To ameliorate the (import) errors, simply run ' ~$ pip3 install -r requirements.txt '
-To generate the '.py' from the '.ui' the formal command for Python UI compiler ' ~$ pyuic5 -x someUIFile.ui -o someUIFile.py' has been used.
+To initialise the GUI application simply run `~$ python3 VajraExp.py`
+To ameliorate the (import) errors, simply run ` ~$ pip3 install -r requirements.txt `
+To generate the `.py` from the `.ui` the formal command for Python UI compiler ` ~$ pyuic5 -x someUIFile.ui -o someUIFile.py` has been used.
 
 ![alt text](images/Anchorage.png "Anchorage Capital Group")
 ![alt text](images/Allergan.png "Allergan Plc")
