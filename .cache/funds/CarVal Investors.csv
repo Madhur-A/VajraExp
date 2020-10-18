@@ -1,0 +1,10 @@
+Stock,Symbol,Type,Shares Held,Market Value,% of Portfolio,Previous % of Portfolio,Ranking,Change in shares,% Change,Change Type,% Ownership,Qtr first owned,sector,source_type,source_date,Avg Price
+Berry petroleum co,BR,"",6645113.0,70438000.0,52.5461,52.1053,1,-100000.0,-1.482555,reduction,No Data,Q3 2018,ENERGY,13F,06/30/2019,17.2933
+Diamond s shipping inc,DSSI,"",2169069.0,27699000.0,20.6632,18.1012,2,-430994.0,-16.576291,reduction,5.3676540,Q1 2019,TRANSPORTS,13F,06/30/2019,10.4
+Atlantica yield plc,AY,"",855026.0,19383000.0,14.4595,11.1381,3,0.0,0.0,,0.8531491,Q4 2017,UTILITIES AND TELECOMMUNICATIONS,13F,06/30/2019,20.339
+Oi s.a class c,OIBR.C,"",5060959.0,10173000.0,7.589,6.4102,4,-32400.0,-0.636122,reduction,0.8842883,Q3 2018,UTILITIES AND TELECOMMUNICATIONS,13F,06/30/2019,
+Golden ocean group limited,GOGL,"",700000.0,4067000.0,3.0339,2.2351,5,0.0,0.0,,0.4877029,Q1 2017,ENERGY,13F,06/30/2019,5.5652
+Cemex s.a. de c.v. series a (sponsored adr) adr,CX,PRN,2000000.0,1996000.0,1.489,1.3274,6,0.0,0.0,,N/A,Q1 2018,MATERIALS,13F,06/30/2019,
+Ambac finl group inc wts exp 4/30/2023,AMBCW,"",36856.0,294000.0,0.2193,0.2075,7,0.0,0.0,,N/A,Q3 2018, ,13F,06/30/2019,
+Terraform power inc,TERP,"",0.0,0.0,,6.8948,"",-749615.0,-100.0,soldall,0.0000000,Q1 2017,ENERGY,13F,06/30/2019,11.7736
+Ishares msci emerging index fund,EEM,"",0.0,0.0,,1.5804,"",-55000.0,-100.0,soldall,No Data,Q1 2019,FINANCE,13F,06/30/2019,42.92

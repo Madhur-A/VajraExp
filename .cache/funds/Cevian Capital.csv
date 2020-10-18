@@ -1,0 +1,3 @@
+Stock,Symbol,Type,Shares Held,Market Value,% of Portfolio,Previous % of Portfolio,Ranking,Change in shares,% Change,Change Type,% Ownership,Qtr first owned,sector,source_type,source_date,Avg Price
+Autoliv inc,ALV,"",5723649.0,403574000.0,74.3966,76.2759,1,0.0,0.0,,6.5615602,Q1 2018,CONSUMER DISCRETIONARY,13F,06/30/2019,104.8191
+Veoneer inc,VNE,"",8023649.0,138889000.0,25.6034,23.7241,2,2300000.0,40.184155,addition,7.2025575,Q2 2018,CONSUMER DISCRETIONARY,13F,06/30/2019,
